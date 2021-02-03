@@ -6,7 +6,7 @@ import random
 #Define window
 root = tkinter.Tk()
 root.title('Simon Memory Game')
-root.iconbitmap('memorygame.ico')
+root.iconbitmap('resources/icons/memorygame.ico')
 root.geometry('400x400')
 root.resizable(0,0)
 
